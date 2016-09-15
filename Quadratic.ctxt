@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=Quadratic(double,\ double,\ double)
+comment1.params=
+comment1.target=void\ show()
+comment2.params=x
+comment2.target=void\ compute(double)
+comment3.params=
+comment3.target=void\ solve()
+comment4.params=
+comment4.target=void\ superSolve()
+comment5.params=
+comment5.target=void\ robustSolve()
+numComments=6
